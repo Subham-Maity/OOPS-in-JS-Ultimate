@@ -1,10 +1,4 @@
-#### 🔥Connect: https://www.subham.online
-
-#### 🔥Twitter: https://twitter.com/TheSubhamMaity
-
------------------
-
-
+# 🔗 [You can read here](https://dev.to/codexam/oops-in-js-ultimate-4j34)
 ##  ▶️ Intro
 
 ###  ⭐ What is OOPs ?
